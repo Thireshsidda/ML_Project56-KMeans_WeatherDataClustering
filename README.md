@@ -1,6 +1,6 @@
 # ML_Project56-KMeans_WeatherDataClustering
 
-### Kmeans Weather Data Clustering Project README
+### Kmeans Weather Data Clustering
 ### Overview
 This project focuses on performing k-means clustering using scikit-learn in Python to cluster minute-level weather data collected from a weather station in San Diego, California. The objective is to generate clusters that capture different weather patterns based on sensor measurements such as air pressure, temperature, wind speed, and humidity.
 
